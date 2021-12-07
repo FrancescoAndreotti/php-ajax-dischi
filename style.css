@@ -1,0 +1,20 @@
+header{
+  padding: 10px;
+}
+
+header img {
+  max-height: 40px;
+}
+
+.bg-main {
+  background-color: #1e2d3b;
+}
+
+.my-card {
+  height: 400px;
+}
+
+
+.bg-card {
+  background-color: #2e3a46;
+}
